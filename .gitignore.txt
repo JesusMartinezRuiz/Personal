@@ -1,0 +1,15 @@
+*.log
+public.log
+
+*.class
+private/
+
+*.zip
+*.rar
+*.rar5
+*.7z
+*.ace
+*.r00
+*.r01
+*.gz
+*.tar.bz2
